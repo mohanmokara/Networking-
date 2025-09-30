@@ -1,2 +1,2 @@
 # Networking-
-Practicing and trouble shooting networking labs on cisco packet tracer .
+Practicing networking labs while learning stage .
